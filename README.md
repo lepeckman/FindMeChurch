@@ -27,6 +27,8 @@ Please choose, from the following, the length of your service time:
 
 How many off-street parking spaces are available? How many handicapped spaces?
 
+
+
 Both congregations and potential congregants fill out a basic form in order to be matched. 
 
-No subective data permitted. 
+No subective data permitted. Limited characters available for fill-in responses. 
