@@ -5,9 +5,9 @@ Concept of app:
 
 Find obective data concerning worship communities. 
 
-Congregations are able to input simple data, answer 'yes' or 'no' questions. 
+Congregations are able to input simple data and answer 'yes' or 'no' questions. 
 
-This is not an advertisement, but a collection of the simple facts concerning different worship communities within the area. 
+This is not an advertisement, but a collection of the facts concerning different worship communities within the area. 
 
 example: 
 
